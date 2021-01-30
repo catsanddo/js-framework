@@ -2,6 +2,7 @@
 ### For making simple games
 This is a template for making games using vanilla Javascript.
 It was originally made with the intention of creating a game for the [Nokia 3310 Jam](https://itch.io/jam/nokiajam3).
+
 It has a few fundamental capabilities:
 - An entity class with rectangular collision detection
 - A clock with delta time and timers built in
